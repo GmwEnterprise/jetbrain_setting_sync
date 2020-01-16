@@ -2,7 +2,9 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
-      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="org.slf4j.LoggerFactory.getLogger(name)" />
+      </blacklist>
       <blacklist language="JavaScript" />
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
