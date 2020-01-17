@@ -1,7 +1,5 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Monaco" />
-    <option name="LINE_SPACING" value="1.1" />
+    <option name="FONT_SIZE" value="14" />
   </component>
 </application>
